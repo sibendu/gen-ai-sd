@@ -1,0 +1,7 @@
+crewai==0.102.0
+crewai-tools==0.36.0
+pytest
+ipython
+jupyter
+faiss-cpu
+
