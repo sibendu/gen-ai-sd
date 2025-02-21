@@ -1,0 +1,11 @@
+langchain==0.3.19
+langgraph==0.2.74 
+langsmith
+langchain_openai
+langchain_community==0.3.18
+langchain_experimental==0.3.4
+tavily-python==0.5.1
+ipython
+jupyter
+
+
