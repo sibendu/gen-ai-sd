@@ -1,5 +1,6 @@
-#
+# CrewAI Samples
 
+## Notebook
 
 routing_multiagent_crewai.ipynb - A support agent generate response to customer queries, and then a support quality assurance agent reviews that
 
@@ -14,4 +15,10 @@ example_SerperDevTool.ipynb - Example usage of SerperDevTool
 human_input.ipynb -  An example of human input during Agent execution. To do: explore more alternate, especially for UI
 
 
+
+## fullstack - A full stack example. NextJS front-end, Flask/Python backend
+
+
+## instagram-llama3-crewai
+Ref: https://github.com/bhancockio/instagram-llama3-crewai?tab=readme-ov-file#details--explanation
 
