@@ -1,0 +1,11 @@
+llama_index==0.12.23
+llama-index-utils-workflow==0.3.0
+llama-index-llms-azure-openai==0.3.2
+llama-parse==0.6.4.post1
+llama-index-embeddings-azure-openai==0.3.0
+llama-index-readers-whisper==0.1.0
+gradio
+ipython
+jupyter
+
+
